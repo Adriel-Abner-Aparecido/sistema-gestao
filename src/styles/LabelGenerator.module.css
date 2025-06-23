@@ -1,0 +1,19 @@
+.labelsPage  {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .label {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    page-break-inside: avoid;
+  }
+  
+  .settings {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
